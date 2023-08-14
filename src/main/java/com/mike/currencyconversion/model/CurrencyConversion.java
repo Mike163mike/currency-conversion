@@ -12,7 +12,7 @@ import java.util.UUID;
 
 @Entity
 @NoArgsConstructor
-@AllArgsConstructor
+//@AllArgsConstructor
 @Getter
 @Setter
 @Table(name = "currency_conversion")

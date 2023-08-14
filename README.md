@@ -14,3 +14,4 @@ calculate total cost and saving results in Postgres BD.
 - Swagger 2 v
 - Feign client
 - Lombok
+- Eureka
